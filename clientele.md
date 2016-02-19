@@ -25,6 +25,7 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/">Community Foundation of Mendocino County</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.mendocino.courts.ca.gov/" target="_blank" title="Exchange Server Support">County of Mendocino Courthouse</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;um=1&amp;ie=UTF-8&amp;q=Creative+Landscape+Ukiah&amp;fb=1&amp;view=text&amp;latlng=3167856995230796578#" target="_blank" title="Desktop Support">Creative Landscape</a></span></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
 </ul>
 </td>
 <td valign="top" style="padding: 0in">
