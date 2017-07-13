@@ -3,9 +3,10 @@ layout: page
 page_title: Site Map
 title: Site Map
 permalink: /sitemap/
+published: true
 ---
 
-<p> Last updated: 2010, July 19</p>
+<p> Last updated: 2017, July 13</p>
 <table border="0" cellpadding="0">
   <tbody>
     <tr valign="top">
