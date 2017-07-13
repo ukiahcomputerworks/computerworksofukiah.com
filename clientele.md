@@ -25,14 +25,15 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
   <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.google.com/maps/place/Mendocino+Council-Governments/@39.151699,-123.2101064,17z/data=!3m1!4b1!4m2!3m1!1s0x808164fb5b33a6e3:0x7f69b3ef471e17be">Davey-Bates Consulting</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;q=dc+customs&amp;near=Ukiah,+CA&amp;fb=1&amp;cid=39167382,-123215849,17185777884291598926&amp;li=lmd&amp;z=14&amp;t=m" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
 </ul>
 </td>
 <td valign="top" style="padding: 0in">
 <div style="margin-left: 2em">
 <ul>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
 <li class="MsoNormal"><a href="http://www.duncanjames.com/">Law Office of Duncan M. <span class="SpellE">James</span></a></li>
+<li class="MsoNormal"><a href="https://www.facebook.com/maccibaldocklaw/">Law Office of Macci Morse- <span class="SpellE">Baldock</span></a></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/" target="_blank" title="Network Support">Mendocino Community Foundation</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.yelp.com/biz/mccartys-autobody-ukiah" target="_blank" title="McCarty&#39;s Auto Body">McCarty&#39;s Auto Body<br /></a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://mendocinorockproducts.com/norcal_recycled.shtml" target="_blank" title="Nor-Cal Recycled Rock and Aggregates Inc.">Nor-Cal Recycled Rock and Aggregates</a></span></li>
