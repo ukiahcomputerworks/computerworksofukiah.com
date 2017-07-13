@@ -3,6 +3,7 @@ layout: page
 page_title: Let Us Green Up Your Network!
 title: What Are Eco-Friendly Computers?
 permalink: /eco-computers/
+published: false
 ---
 
 <p align="center"><strong>TIPS ON GREEN NETWORKING!</strong> </p>
