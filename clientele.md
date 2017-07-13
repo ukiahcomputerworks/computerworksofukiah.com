@@ -14,7 +14,6 @@ published: true
 <td valign="top" style="padding: 0in">
 <ul>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.alpha-labs.com/" target="_blank" title="Complete Network and Server Support">Alpha Analytical Laboratories</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;ie=UTF-8&amp;q=andy+coren+medical&amp;near=Ukiah,+CA&amp;fb=1&amp;split=1&amp;gl=us&amp;cid=2240178890135107812&amp;li=lmd&amp;z=14&amp;t=m" target="_blank" title="Network Support">Andy Coren M.D.</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.bandbindustrial.com/" target="_blank" title="B&amp;B Industrial Hardware &amp; Metal">B&amp;B Industrial Hardware &amp; Metal</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.bountifulgardens.org/" target="_blank" title="Server Support">Bountiful Gardens</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.btcsd.org/">Brooktrails Township Community Services District</a></span></li>
@@ -23,13 +22,13 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.mendocino.courts.ca.gov/" target="_blank" title="Exchange Server Support">County of Mendocino Courthouse</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;um=1&amp;ie=UTF-8&amp;q=Creative+Landscape+Ukiah&amp;fb=1&amp;view=text&amp;latlng=3167856995230796578#" target="_blank" title="Desktop Support">Creative Landscape</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
+  <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.google.com/maps/place/Mendocino+Council-Governments/@39.151699,-123.2101064,17z/data=!3m1!4b1!4m2!3m1!1s0x808164fb5b33a6e3:0x7f69b3ef471e17be">Davey-Bates Consulting</a></span></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;q=dc+customs&amp;near=Ukiah,+CA&amp;fb=1&amp;cid=39167382,-123215849,17185777884291598926&amp;li=lmd&amp;z=14&amp;t=m" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
 </ul>
 </td>
 <td valign="top" style="padding: 0in">
 <div style="margin-left: 2em">
 <ul>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.google.com/maps/place/Mendocino+Council-Governments/@39.151699,-123.2101064,17z/data=!3m1!4b1!4m2!3m1!1s0x808164fb5b33a6e3:0x7f69b3ef471e17be">Davey-Bates Consulting</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;q=dc+customs&amp;near=Ukiah,+CA&amp;fb=1&amp;cid=39167382,-123215849,17185777884291598926&amp;li=lmd&amp;z=14&amp;t=m" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
 <li class="MsoNormal"><a href="http://www.duncanjames.com/">Law Office of Duncan M. <span class="SpellE">James</span></a></li>
