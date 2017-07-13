@@ -26,12 +26,6 @@ published: true
               <td class="lpage"><a href="/certifications/">Certifications - We are Industry Certified</a></td>
             </tr>
             <tr>
-              <td class="lpage"><a href="/tips/">Tips - Tweaks For Your Computer</a></td>
-            </tr>
-            <tr>
-              <td class="lpage"><a href="/maps/">Locate Us - Maps</a></td>
-            </tr>
-            <tr>
               <td class="lpage"><a href="/contact/">Contact Us!</a></td>
             </tr>
             <tr>
