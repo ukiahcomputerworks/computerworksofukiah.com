@@ -1,7 +1,7 @@
 ---
 layout: page
-page_title: "Maintaining Many Satisfied Customers!"
-title: "The \"A\" List!"
+page_title: Maintaining Many Satisfied Customers!
+title: The "A" List!
 permalink: /clientele/
 published: true
 ---
@@ -20,9 +20,6 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.btcsd.org/">Brooktrails Township Community Services District</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.brutocaocellars.com/" target="_blank" title="Network Support">Brutocao Cellars</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=Canteen+Services+Ukiah,+CA&amp;layer=&amp;ie=UTF8&amp;om=1&amp;z=12&amp;ll=39.261633,-123.190727&amp;spn=0.122012,0.319977&amp;iwloc=A&amp;iwd=1&amp;cid=39200082,-123206186,9913332347405478231&amp;dtab=0">Canteen Services of Ukiah</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.willitscity.com/" title="Network Maintenance and Support">City of Willits - Finance</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.willitscity.com/" target="_blank" title="Network Maintenance and Support">City of Willits - Public Works</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/">Community Foundation of Mendocino County</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.mendocino.courts.ca.gov/" target="_blank" title="Exchange Server Support">County of Mendocino Courthouse</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;um=1&amp;ie=UTF-8&amp;q=Creative+Landscape+Ukiah&amp;fb=1&amp;view=text&amp;latlng=3167856995230796578#" target="_blank" title="Desktop Support">Creative Landscape</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
