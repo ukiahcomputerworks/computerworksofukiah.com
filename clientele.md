@@ -32,6 +32,7 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
 <li class="MsoNormal"><a href="http://www.duncanjames.com/">Law Office of Duncan M. <span class="SpellE">James</span></a></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/" target="_blank" title="Network Support">Mendocino Community Foundation</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.yelp.com/biz/mccartys-autobody-ukiah" target="_blank" title="McCarty&#39;s Auto Body">McCarty&#39;s Auto Body<br /></a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://mendocinorockproducts.com/norcal_recycled.shtml" target="_blank" title="Nor-Cal Recycled Rock and Aggregates Inc.">Nor-Cal Recycled Rock and Aggregates</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.mendocinorockproducts.com/northern_aggregates.shtml" target="_blank" title="Wide Area Network Support">Northern Aggregates</a></span></li>
