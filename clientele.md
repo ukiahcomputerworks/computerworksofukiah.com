@@ -26,12 +26,12 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dccustoms.net/" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
+  <li class="MsoNormal"><a href="http://www.duncanjames.com/">Law Office of Duncan M. <span class="SpellE">James</span></a></li>
 </ul>
 </td>
 <td valign="top" style="padding: 0in">
 <div style="margin-left: 2em">
 <ul>
-<li class="MsoNormal"><a href="http://www.duncanjames.com/">Law Office of Duncan M. <span class="SpellE">James</span></a></li>
 <li class="MsoNormal"><a href="https://www.facebook.com/maccibaldocklaw/">Law Office of Macci Morse- <span class="SpellE">Baldock</span></a></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/" target="_blank" title="Network Support">Mendocino Community Foundation</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.yelp.com/biz/mccartys-autobody-ukiah" target="_blank" title="McCarty&#39;s Auto Body">McCarty&#39;s Auto Body<br /></a></span></li>
