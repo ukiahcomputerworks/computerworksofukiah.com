@@ -23,8 +23,8 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;um=1&amp;ie=UTF-8&amp;q=Creative+Landscape+Ukiah&amp;fb=1&amp;view=text&amp;latlng=3167856995230796578#" target="_blank" title="Desktop Support">Creative Landscape</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.drjoevargas.com/" target="_blank" title="Network Support">Dr. Joe Vargas O.D.</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
-  <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.google.com/maps/place/Mendocino+Council-Governments/@39.151699,-123.2101064,17z/data=!3m1!4b1!4m2!3m1!1s0x808164fb5b33a6e3:0x7f69b3ef471e17be">Davey-Bates Consulting</a></span></li>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;q=dc+customs&amp;near=Ukiah,+CA&amp;fb=1&amp;cid=39167382,-123215849,17185777884291598926&amp;li=lmd&amp;z=14&amp;t=m" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
+  <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.nciha.org" target="_blank" title="Network Performance and Security">Northern Circle Indian Housing Authority</a></span></li>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dccustoms.net/" target="_blank" title="Computer Performance and Security">DC Customs</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.fordstreet.org" target="_blank" title="Ford Street Project">Ford Street Project</a></span></li>
 </ul>
