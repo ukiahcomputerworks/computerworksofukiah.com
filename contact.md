@@ -3,10 +3,10 @@ layout: page
 page_title: Contact Us
 title: Contact Us
 permalink: /contact/
+published: true
 ---
 
-<p>We Are Located At 216 W. Perkins St., Suite 105, Ukiah, CA 95482. 
-You Can Call <a href="tel:7074628275">(707) 462-8275</a> or Fill Out This Form With Any Questions You May Have, Thank You!</p>
+<p>Please Call <a href="tel:7074628275">(707) 462-8275</a> or Fill Out This Form With Any Questions You May Have, Thank You!</p>
 
 <div id="wufoo-z9cbgzd0wxkahu">
 </div>
