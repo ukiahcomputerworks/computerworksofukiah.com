@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Award
+title: Awards
 permalink: /awards/
 published: true
 ---
