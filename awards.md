@@ -30,8 +30,9 @@ The Ukiah Award Program was established to recognize the best of local businesse
 SOURCE: Ukiah Award Program
 
 CONTACT:
-Ukiah Award Program
+
 Email: PublicRelations@businessesregional.com
+
 URL: http://www.businessesregional.com
 
 ###
