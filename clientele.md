@@ -30,6 +30,7 @@ published: true
 <div style="margin-left: 2em">
 <ul>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/" target="_blank" title="Network Support">Mendocino Community Foundation</a></span></li>
+  <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.myersmedicalpharmacy.com/" target="_blank" title="Network Support">Myers Medical Pharmacy</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.yelp.com/biz/mccartys-autobody-ukiah" target="_blank" title="Network Support">McCarty&#39;s Auto Body<br /></a></span></li>
     <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.nciha.org" target="_blank" title="Network Support">Northern Circle Indian Housing Authority</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.yellowpages.com/ukiah-ca/mip/reliable-mill-supply-co-inc-2316494" title="Network Support">Reliable Mill Supply<br /></a></span></li>
