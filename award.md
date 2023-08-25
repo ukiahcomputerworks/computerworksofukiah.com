@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Award
-permalink: /about/
+permalink: /awards/
 published: true
 ---
 
