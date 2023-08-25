@@ -21,12 +21,12 @@ published: true
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://maps.google.com/maps?hl=en&amp;um=1&amp;ie=UTF-8&amp;q=Creative+Landscape+Ukiah&amp;fb=1&amp;view=text&amp;latlng=3167856995230796578#" target="_blank" title="Desktop Support">Creative Landscape</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.drjoevargas.com/" target="_blank" title="Network Support">Dr. Joe Vargas O.D.</a></span></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://khourydentistry.com/">Dr. Nicholas Khoury DMD</a></span></li>
-  </ul>
+<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
+    </ul>
 </td>
 <td valign="top" style="padding: 0in">
 <div style="margin-left: 2em">
 <ul>
-<li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.dow-associates.com/">Dow &amp; Associates</a></span></li>
   <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="https://www.mariposamarket.com/">Mariposa Market</a></span></li>
   <li class="MsoNormal"><a href="https://ukiahattorney.net/" target="_blank" title="Network Support">James & McMullen, LLP <span class="SpellE">James</span></a></li>
 <li class="MsoNormal"><span style="font-family: Arial; font-size: 10.5pt"><a href="http://www.communityfound.org/" target="_blank" title="Network Support">Mendocino Community Foundation</a></span></li>
